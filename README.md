@@ -2,7 +2,7 @@ CellSay
 
 Proyecto Capstone 004D
 
-Integrantes: JOEL MATAMALA, HARRY RUIZ, jOSUE CHOQUE, BRUNO ZAMORANO
+Integrantes: JOEL MATAMALA, HARRY RUIZ, JOSUE CHOQUE, BRUNO ZAMORANO
 
 App Móvil para Personas con Discapacidad Visual
 
