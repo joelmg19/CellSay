@@ -1,4 +1,5 @@
 CellSay 
+![Uploading socialsight-ai-48235bd6-6fb8-4127-802d-e76fa32f34cb.png…]()
 
 Proyecto Capstone 004D
 
