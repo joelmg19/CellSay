@@ -10,6 +10,7 @@
 - **Harry Ruiz**  
 - **Josue Choque**  
 - **Bruno Zamorano**
+- **Fernando Arévalo**
 
 ---
 
